@@ -1,5 +1,7 @@
 # github-garden
 
+[![OpenRoots ORA 2.3](https://openroots.org/badge/ora.svg)](https://openroots.org/licenses/ora/2.3)
+
 🌳 Transforming your Github stats into a lush green oasis, fueled by the magic of Github Actions, powered by [Github Actions](https://github.com/features/actions)
 
 [![Auto commit](https://github.com/mjmirza/github-garden/workflows/Auto%20commit/badge.svg)](https://github.com/mjmirza/github-garden/actions?query=workflow%3A%22Auto+commit%22)
